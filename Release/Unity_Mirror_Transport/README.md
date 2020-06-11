@@ -4,14 +4,23 @@ How to use NATPTransport
 #### Step1 Setup coturn
 ##### Install
 `$sudo yum install git`
+
 `$sudo yum install emacs-nox`
+
 `$sudo yum install build-essential`
+
 `$sudo yum install libssl-dev sqlite3`
+
 `$sudo yum install libsqlite3-dev`
+
 `$sudo yum install libevent-dev`
+
 `$sudo yum install g++`
+
 `$sudo yum install libboost-dev`
+
 `$sudo yum install libevent-dev`
+
 `$sudo yum install coturn`
 
 ##### Config
