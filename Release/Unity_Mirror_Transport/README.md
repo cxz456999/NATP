@@ -30,8 +30,11 @@ How to use NATPTransport
 
 `$sudo nano /etc/coturn/turnserver.conf`
 >  listening-port=3478
+
 external-ip=EXTERNAL IP ADDRESS
-user=user:password`
+
+user=user:password
+
 cli-password=password123456
 
 #### Step2 Setup signaling server
@@ -49,6 +52,7 @@ cli-password=password123456
 `$sudo turnserver -v -a -f -c /etc/coturn/turnserver.conf -r realm`
 ##### SignalingServer
 `$cd /home/user/NATP_SignalingServer/NATP_SignalingServer/bin/Debug/netcoreapp3.1`
+
 `$sudo ./NATP_SignalingServer`
 
 ## Client
@@ -56,5 +60,6 @@ cli-password=password123456
 2. Import [NATPTransport.unitypackage](https://github.com/cxz456999/NATP/tree/master/Release/Unity_Mirror_Transport "NATPTransport.unitypackage")
 3. Use NATPTransport as transport
 4. Input the public IP address (in coturn config external-ip)
-5. Input roomtag
+[![example](https://github.com/cxz456999/NATP/blob/master/Release/Unity_Mirror_Transport/final.JPG "example")](https://github.com/cxz456999/NATP/blob/master/Release/Unity_Mirror_Transport/final.JPG "example")
+5. Input room tag
 6. enjoyed
