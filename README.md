@@ -9,7 +9,7 @@ Before Start
 -------------
 - server with public IP address (AWS, GCP)
 - Install turn on the server, recommand [coturn](https://github.com/coturn/coturn "coturn")
-- install NATP Signaling Server on the server
+- [Option] install NATP Signaling Server on the server
 
 Examples
 -------------
