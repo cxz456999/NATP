@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net;
 using System.Security.Cryptography.X509Certificates;
-namespace Signaling.Server
+namespace NATP.Signaling.Server
 {
     class NATP_SignalingServerCore
     {

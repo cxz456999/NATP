@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using NetCoreServer;
 
 
-namespace Signaling.Server
+namespace NATP.Signaling.Server
 {
     class Program
     { // 
@@ -21,11 +21,12 @@ namespace Signaling.Server
             Console.WriteLine();
 
             // Create and prepare a new SSL server context
-            var context = new SslContext(SslProtocols.Tls12, new X509Certificate2("./natp.pfx", "natp"));
+            //var context = new SslContext(SslProtocols.Tls12, new X509Certificate2("./natp.pfx", "natp"));
 
-            // Create a new SSL chat server
-            var server = new NATP_SignalingServer(context, IPAddress.Any, port);
-
+            // Create a new SSL server
+            //var server = new NATP_SSL_SignalingServer(context, IPAddress.Any, port);
+            // Create a new TCP server
+            var server = new NATP_TCP_SignalingServer(IPAddress.Any, port);
             // Start the server
             Console.Write("Server starting...");
             server.Start();

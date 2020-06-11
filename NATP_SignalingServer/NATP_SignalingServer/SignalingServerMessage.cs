@@ -6,7 +6,7 @@ using System.Net;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 
-namespace Signaling.Server
+namespace NATP.Signaling.Server
 {
     public class Room
     {
