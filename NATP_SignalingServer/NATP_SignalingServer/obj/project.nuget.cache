@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+T3w+AsneUvxGeMxCCA00WPJmSOZHp86Q/tHccHvSy1uXn8t3+ecJX3hnjYExsH1WGWUYy77ThmePtzYCo6PiA==",
+  "dgSpecHash": "lzkOl9Wc5E81lL+YwjGwBN+1+Da3daVygByCATeHCWiPpCOqAaLlcIlfnts4QPTny8xC1PuMCaBhuLouBO0wsg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
+  "projectFilePath": "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

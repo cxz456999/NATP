@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj": {}
+    "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj": {
+    "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
+        "projectUniqueName": "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
         "projectName": "NATP_SignalingServer",
-        "projectPath": "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
+        "projectPath": "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\NATP_SignalingServer.csproj",
         "packagesPath": "C:\\Users\\Gtitw\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Visual studio\\C#\\NATP_SignalingServer\\NATP_SignalingServer\\obj\\",
+        "outputPath": "D:\\Projects\\Visual studio\\C#\\NATP\\NATP_SignalingServer\\NATP_SignalingServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

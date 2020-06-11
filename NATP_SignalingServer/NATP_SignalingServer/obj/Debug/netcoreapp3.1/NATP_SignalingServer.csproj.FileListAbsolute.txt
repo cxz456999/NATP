@@ -11,3 +11,16 @@ D:\Projects\Visual studio\C#\NATP_SignalingServer\NATP_SignalingServer\obj\Debug
 D:\Projects\Visual studio\C#\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.dll
 D:\Projects\Visual studio\C#\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.pdb
 D:\Projects\Visual studio\C#\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.genruntimeconfig.cache
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.csprojAssemblyReference.cache
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.AssemblyInfoInputs.cache
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.AssemblyInfo.cs
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.dll
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.pdb
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.exe
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.deps.json
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.runtimeconfig.json
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.runtimeconfig.dev.json
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.dll
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\bin\Debug\netcoreapp3.1\NATP_SignalingServer.pdb
+D:\Projects\Visual studio\C#\NATP\NATP_SignalingServer\NATP_SignalingServer\obj\Debug\netcoreapp3.1\NATP_SignalingServer.genruntimeconfig.cache
