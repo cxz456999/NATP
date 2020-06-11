@@ -25,7 +25,9 @@ How to use NATPTransport
 
 ##### Config
 `$sudo cp /etc/coturn/turnserver.conf /etc/coturn/turnserver.conf.default`
+
 `$sudo rm /etc/coturn/turnserver.conf`
+
 `$sudo nano /etc/coturn/turnserver.conf`
 >  listening-port=3478
 external-ip=EXTERNAL IP ADDRESS
@@ -35,9 +37,11 @@ cli-password=password123456
 #### Step2 Setup signaling server
 ##### Install .NET Core
 `$sudo rpm -Uvh https://packages.microsoft.com/config/centos/7/packages-microsoft-  prod.rpm`
+
 `$sudo yum install dotnet-sdk-3.1`
 ##### Build 
 `$scd /home/user/NATP_SignalingServer`
+
 `$dotnet build`
 
 #### Step3 Run
